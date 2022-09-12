@@ -166,7 +166,7 @@ a{
     margin-bottom: 12px;
 }
 .feedback{
-    width: 1440px;
+    width: 1518px;
     height: 360px;
     background: rgba(0, 169, 232, .1);
     padding: 20px;
@@ -274,7 +274,7 @@ a{
     margin-bottom: 63px;
 }
 #footer{
-    width: 1440px;
+    width: 1518px;
     height: 290px;
     padding-top: 58px;
     background-color: #223141;
@@ -324,7 +324,7 @@ li{
 }
 #footer-2{
     background-color: #384c60;
-    width: 1440px;
+    width: 1518px;
 }
 .footer-contain-2{
     display: flex;
