@@ -274,7 +274,7 @@ a{
     margin-bottom: 63px;
 }
 #footer{
-    width: 1518px;
+    width: 1440px;
     height: 290px;
     padding-top: 58px;
     background-color: #223141;
@@ -324,7 +324,7 @@ li{
 }
 #footer-2{
     background-color: #384c60;
-    width: 1518px;
+    width: 1440px;
 }
 .footer-contain-2{
     display: flex;
